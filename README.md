@@ -3,7 +3,7 @@
 ## La solution de kiosk open-source qu"il vous faut
 
 **[ AVANCEMENT DU PROJET ]**
-[x] Serveur
-[ ] Script client
-[ ] Exporter image
-[ ] Doc
+- [x] Serveur
+- [ ] Script client
+- [ ] Exporter image
+- [ ] Doc
